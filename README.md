@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-w24/jpa02-vcnardi524
 
-Deployed at: https://jpa02-vcnardi524.dokku-09.cs.ucsb.edu
+Deployed at: http://jpa02-vcnardi524.dokku-09.cs.ucsb.edu
 
 
 # About this repo
